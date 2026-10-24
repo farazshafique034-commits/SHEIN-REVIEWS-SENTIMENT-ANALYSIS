@@ -1,0 +1,29 @@
+SHEIN CLOTHING - YOUTUBE SOCIAL LISTENING REPORT
+===========================================
+Generated (UTC): 2026-10-24T09:26:54+00:00
+Comments analyzed: 2000 / target 2000
+Video sources sampled: 3
+Comments mentioning a basic product keyword: 52.7%
+
+SENTIMENT DISTRIBUTION (heuristic AI predictions, not verified opinions)
+- Positive: 456 (22.8%)
+- Negative: 814 (40.7%)
+- Neutral: 594 (29.7%)
+- Mixed: 136 (6.8%)
+
+TOP NEGATIVE-OPINION ASPECTS (simple keyword counts)
+- Price and value: 140 negative segments
+- Quality and fabric: 80 negative segments
+- Style and appearance: 58 negative segments
+
+BUSINESS RECOMMENDATION
+Review price and value messaging and customer experience first: this aspect appeared most often in negative opinion segments in this sample. Manually inspect examples before making product decisions.
+
+LIMITATIONS AND ETHICS
+- YouTube comments are not verified SHEIN buyer reviews.
+- Search rank, video choice, comment availability, and topic relevance bias the sample.
+- The model is intended mainly for English; sarcasm, slang, Roman Urdu, and context may fail.
+- A 'mixed' flag is derived from positive + negative sub-statements, not a fourth model class.
+- Topic labels use keyword matches, not full aspect-based sentiment understanding.
+- Review the manual_validation_sample.csv against actual comments before trusting results.
+- Respect YouTube API policies and avoid republishing personally identifying data.

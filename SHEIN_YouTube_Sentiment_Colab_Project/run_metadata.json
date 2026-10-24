@@ -1,0 +1,21 @@
+{
+  "generated_at_utc": "2026-10-24T09:26:54+00:00",
+  "target_comments": 2000,
+  "analyzed_comments": 2000,
+  "unique_videos": 3,
+  "model": "cardiffnlp/twitter-roberta-base-sentiment-latest",
+  "data_source": "YouTube Data API v3; public top-level comments",
+  "sentiment_counts": {
+    "positive": 456,
+    "negative": 814,
+    "neutral": 594,
+    "mixed": 136
+  },
+  "negative_aspect_mentions": {
+    "Fit and sizing": 56,
+    "Quality and fabric": 80,
+    "Price and value": 140,
+    "Shipping and delivery": 9,
+    "Style and appearance": 58
+  }
+}
